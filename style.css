@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-color: #7c099f;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .page-title {
+    color: hsl(286, 89%, 33%);
+    margin: 0 0 20px;
+  }
+  
+  
+  .page-logo {
+    width: 200px;
+  }
+
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+
+  label {
+    color: #7c099f;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: #7c099f;
+    font-size: 30px;
+  }
+
+
+footer{
+    text-align: center;
+    padding-top: 10px;
+}
+ 
+footer a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+}
